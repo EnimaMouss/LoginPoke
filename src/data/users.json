@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "email": "j.doe1@ciev.fr",
+      "nickname": "toto",
+      "role": "godMode"
+      },
+    {
+        "id": 2,
+        "email": "j.doe2@ciev.fr",
+        "nickname": "tata",
+        "role": "admin"
+    },
+    {
+        "id": 3,
+        "email": "j.doe3@ciev.fr",
+        "nickname": "titi",
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "email": "j.doe4@ciev.fr",
+        "nickname": "tutu",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "email": "j.doe5@ciev.fr",
+        "nickname": "lala",
+        "role": "admin"
+    },
+    {
+        "id": 6,
+        "email": "j.doe6@ciev.fr",
+        "nickname": "zozo",
+        "role": "com"
+    },
+    {
+        "id": 7,
+        "email": "j.doe7@ciev.fr",
+        "nickname": "bla",
+        "role": "seller"
+    },
+    {
+        "id": 8,
+        "email": "j.doe8@ciev.fr",
+        "nickname": "karl",
+        "role": "user"
+    },
+    {
+        "id": 9,
+        "email": "j.doe9@ciev.fr",
+        "nickname": "max",
+        "role": "seller"
+    }
+  ]
